@@ -22,3 +22,6 @@ $$ \cancelto{H_2}{H_2O} $$
 $$ m_{\small{H_2O}}=V\rho_{\small{H_2O}} $$
 
 m_{\small{H_2O}}=V\rho_{\small{H_2O}}
+
+
+![lagrida_latex_editor](https://user-images.githubusercontent.com/114468719/200492399-2c194af9-b1ae-4852-9bfa-b3585a715efb.png)
