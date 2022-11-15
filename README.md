@@ -27,6 +27,6 @@ m_{\small{H_2O}}=V\rho_{\small{H_2O}}
 ![lagrida_latex_editor](https://user-images.githubusercontent.com/114468719/200492399-2c194af9-b1ae-4852-9bfa-b3585a715efb.png)
 
 
-https://lucid.app/lucidchart/797a7886-7b6b-4191-bff2-363deacebb17/edit?view_items=vBJ9X1xrcVk1&invitationId=inv_d2da1cd1-ade9-4837-b69e-6e4cf2672443
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/797a7886-7b6b-4191-bff2-363deacebb17" id="6UJ9Xi5PlQsw"></iframe></div>
 
 
